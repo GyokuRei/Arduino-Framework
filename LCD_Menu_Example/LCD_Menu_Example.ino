@@ -1,8 +1,10 @@
+// khai bao thu vien 
 #include <Wire.h> 
 #include <LiquidCrystal_I2C.h>
 #include "LCDMenu.h"
 #include "StableButton.h"
 
+// khai bao chan su dung
 #define RETURN 4
 #define LEFT 5
 #define RIGHT 6
